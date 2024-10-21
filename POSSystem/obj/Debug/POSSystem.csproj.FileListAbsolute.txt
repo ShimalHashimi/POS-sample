@@ -1,0 +1,56 @@
+D:\POSTemplate\POSSystem\POSSystem\bin\Debug\POSSystem.exe.config
+D:\POSTemplate\POSSystem\POSSystem\bin\Debug\POSSystem.exe
+D:\POSTemplate\POSSystem\POSSystem\bin\Debug\POSSystem.pdb
+D:\POSTemplate\POSSystem\POSSystem\bin\Debug\Guna.UI.dll
+D:\POSTemplate\POSSystem\POSSystem\obj\Debug\POSSystem.csproj.AssemblyReference.cache
+D:\POSTemplate\POSSystem\POSSystem\obj\Debug\POSSystem.frmLogin.resources
+D:\POSTemplate\POSSystem\POSSystem\obj\Debug\POSSystem.Properties.Resources.resources
+D:\POSTemplate\POSSystem\POSSystem\obj\Debug\POSSystem.csproj.GenerateResource.cache
+D:\POSTemplate\POSSystem\POSSystem\obj\Debug\POSSystem.csproj.CoreCompileInputs.cache
+D:\POSTemplate\POSSystem\POSSystem\obj\Debug\POSSystem.csproj.CopyComplete
+D:\POSTemplate\POSSystem\POSSystem\obj\Debug\POSSystem.exe
+D:\POSTemplate\POSSystem\POSSystem\obj\Debug\POSSystem.pdb
+D:\POSTemplate\POSSystem\POSSystem\bin\Debug\Database.mdf
+D:\POSTemplate\POSSystem\POSSystem\bin\Debug\Database_log.ldf
+D:\POSTemplate\POSSystem\POSSystem\obj\Debug\POSSystem.frmMain.resources
+D:\POSTemplate\POSSystem\POSSystem\obj\Debug\POSSystem.frmTmain.resources
+D:\POSTemplate\POSSystem\POSSystem\obj\Debug\POSSystem.frmMenu.resources
+D:\POSTemplate\POSSystem\POSSystem\obj\Debug\POSSystem.frmDashboard.resources
+D:\POS System\POSSystem\POSSystem\bin\Debug\Database.mdf
+D:\POS System\POSSystem\POSSystem\bin\Debug\Database_log.ldf
+D:\POS System\POSSystem\POSSystem\bin\Debug\POSSystem.exe.config
+D:\POS System\POSSystem\POSSystem\bin\Debug\POSSystem.exe
+D:\POS System\POSSystem\POSSystem\bin\Debug\POSSystem.pdb
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.csproj.AssemblyReference.cache
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmDashboard.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmLogin.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmMenu.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.Properties.Resources.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.csproj.GenerateResource.cache
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.csproj.CoreCompileInputs.cache
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.exe
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.pdb
+D:\POS System\POSSystem\POSSystem\bin\Debug\zxing.dll
+D:\POS System\POSSystem\POSSystem\bin\Debug\zxing.presentation.dll
+D:\POS System\POSSystem\POSSystem\bin\Debug\zxing.xml
+D:\POS System\POSSystem\POSSystem\bin\Debug\zxing.presentation.xml
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmBarcode.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmBilling.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frm2Menu.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmDis.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmDamage.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmCodetext.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmCash.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmStock.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmPending.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmCat.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmReport.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frm2Billing.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frm2Report.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmCatP.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmSupplier.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmProduct.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmsupP.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmPurchesingReport.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.frmEditpurches.resources
+D:\POS System\POSSystem\POSSystem\obj\Debug\POSSystem.csproj.Up2Date
